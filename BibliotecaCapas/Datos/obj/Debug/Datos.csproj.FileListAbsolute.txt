@@ -1,0 +1,50 @@
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Datos.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\Biblioteca.Entidades.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\bin\Debug\LibreriaBD.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Biblioteca.Datos.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache

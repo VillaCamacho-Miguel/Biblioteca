@@ -1,0 +1,29 @@
+
+- debe tener 3 tablas(cada quien la diseñara)
+- la tabla debe tener pk y estar relacionada con alguna de las 2 tablas originales, la pl debe ser identity
+- esta tabla debe tener insert y consultas
+- deve tener al menos 3 campos
+- se debe permitir modificar (update) a 2 tablas
+- delete para la tabla de libros
+- TODO se debe realizar con procedimientos almacenados
+- la cadena de conexion debe estar en el archivo de configuracion
+- las tablas deben tener informacion ya guardada y que sea consistente, prohibido agregar datos sin sentido
+
+Consideraciones Generales
+- Recuerdan validar que el libro tenga existencia y que sea libro para prestamo(uso general)
+- al prestar un libro se debe restar la existencia. en su momento se puede validar tipo de usuario que solicita el prestamo
+- considerar validaciones de datos vacios, loingitudes, tipos de datos correctos, etc. SIEMPRE USAR MAYUSCULAS
+las consultas deben mostrar de forma clara, NO SOLO UNA LETRA (1,2,3)
+- MOSTRAR NOMBRE- DESCRIPCION DE LAS PK, NO SOLO LA LLAVE
+- El proyecto no debe marcar error
+-si un dato ya existe se debe poder seleccionar }
+
+REPORTES
+- crear 3 reportes para el proyecto que consideres sean necesarios para los usuarios del sistema
+
+- revision del proyecto se realizará de forma individual y por medio de citas que se apartaran en
+moodle los dias a partir del lunes 16 de mayo al jueves 19 de mayo
+
+MUY IMPORTANTE
+- el proyecto se debe realizar por capas, tal como se vio en clase, respetando la funcion de cada capa.
+- cada uno deberá explicar de forma clara el funcionamiento del proyecto, se pude realizar una pequeña modificacion.

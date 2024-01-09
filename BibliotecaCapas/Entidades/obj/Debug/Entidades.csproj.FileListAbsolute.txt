@@ -1,0 +1,24 @@
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\bin\Debug\Biblioteca.Entidades.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Biblioteca.Entidades.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache

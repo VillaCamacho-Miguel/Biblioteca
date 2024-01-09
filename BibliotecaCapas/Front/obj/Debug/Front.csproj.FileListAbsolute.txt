@@ -1,0 +1,447 @@
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\source\repos\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\extraer\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmPrestamo.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmPrestamo.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEditorial.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Prestamo.frmConsultarPrestamos.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaUsuarioFiltro.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmFiltraLibros.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificarLibro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.pdb
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEditorial.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmFiltraLibros.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificarLibro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Prestamo.frmConsultarPrestamos.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmPrestamo.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaUsuarioFiltro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmAutor.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutor.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutorFiltro.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificar.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorialFiltro.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Interop.AcroPDFLib.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Interop.AcroPDFLib.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.ResolveComReference.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaEditorial.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorial.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaUsuario.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmUsuario.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEliminarLibro.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaUsoPDF.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.dll
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.xml
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmReporte.resources
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaPrestamoFiltro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaUsoPDF.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.xml
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Interop.AcroPDFLib.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Interop.AcroPDFLib.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.ResolveComReference.cache
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmAutor.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutor.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutorFiltro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificar.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorial.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorialFiltro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaEditorial.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEliminarLibro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaPrestamoFiltro.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmReporte.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaUsuario.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmUsuario.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+D:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaLibroIndividual.resources
+E:\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaLibroIndividual.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaUsoPDF.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.xml
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.pdb
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.ResolveComReference.cache
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmAutor.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutor.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutorFiltro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificar.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorial.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorialFiltro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEditorial.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaEditorial.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaLibroIndividual.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEliminarLibro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmFiltraLibros.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificarLibro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaPrestamoFiltro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Prestamo.frmConsultarPrestamos.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmPrestamo.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmReporte.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaUsuarioFiltro.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaUsuario.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmUsuario.resources
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.config
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaUsoPDF.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Entidades.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Negocio.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.barcodes.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.commons.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.forms.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.io.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.kernel.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.layout.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.pdfa.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.sign.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\itext.svg.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Buffers.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Memory.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\System.ValueTuple.xml
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Datos.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\LibreriaBD.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.ResolveComReference.cache
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmAutor.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutor.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaAutorFiltro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificar.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorial.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaEditorialFiltro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEditorial.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaEditorial.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaLibroIndividual.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultarDatos.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmEliminarLibro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmFiltraLibros.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmLibro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmMenu.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificarLibro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaPrestamoFiltro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Prestamo.frmConsultarPrestamos.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmPrestamo.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.Properties.Resources.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmReporte.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmConsultaUsuarioFiltro.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmModificaUsuario.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.frmUsuario.resources
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Front.csproj.CopyComplete
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.pdb
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.exe.manifest
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\bin\Debug\Biblioteca.Front.application
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.exe.manifest
+C:\Users\Miguel Camacho\Desktop\escritorioAux\Memoria\UNIDAD 2 Y 4\Biblioteca\BibliotecaCapas\Front\obj\Debug\Biblioteca.Front.application
